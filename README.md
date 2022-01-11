@@ -1,2 +1,2 @@
-# CPP
-My CPP learning project
+# cpp
+My cpp learning project
